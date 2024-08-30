@@ -32,11 +32,11 @@ To get started with RoadWalletApp, simply clone the repository and open the `ind
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/poshak2004/RoadWalletApp.git
+    git clone https://github.com/poshak2004/Roadwalletapp
     ```
 2. Navigate to the project directory:
     ```bash
-    cd RoadWalletApp
+    cd Roadwalletapp
     ```
 3. Open `index.html` in your browser to start using the app.
 
